@@ -1,0 +1,34 @@
+﻿  DynamicArray.c
+  Services.c
+C:\Users\andre\source\repos\Project2\Services.c(22,12): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\andre\source\repos\Project2\Services.c(23,11): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+C:\Users\andre\source\repos\Project2\Services.c(23,39): warning C4013: 'strlen' undefined; assuming extern returning int
+  UI.c
+C:\Users\andre\source\repos\Project2\UI.c(86,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\andre\source\repos\Project2\UI.c(92,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\andre\source\repos\Project2\UI.c(98,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\andre\source\repos\Project2\UI.c(121,43): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\andre\source\repos\Project2\UI.c(121,32): warning C4024: 'add_undo': different types for formal and actual parameter 4
+C:\Users\andre\source\repos\Project2\UI.c(121,53): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\andre\source\repos\Project2\UI.c(121,45): warning C4024: 'add_undo': different types for formal and actual parameter 5
+C:\Users\andre\source\repos\Project2\UI.c(150,8): warning C4013: 'update' undefined; assuming extern returning int
+C:\Users\andre\source\repos\Project2\UI.c(165,13): warning C4013: 'remove_elem' undefined; assuming extern returning int
+C:\Users\andre\source\repos\Project2\UI.c(182,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\andre\source\repos\Project2\UI.c(239,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\andre\source\repos\Project2\UI.c(241,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\andre\source\repos\Project2\UI.c(244,9): warning C4013: 'swap' undefined; assuming extern returning int
+C:\Users\andre\source\repos\Project2\UI.c(348,33): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\andre\source\repos\Project2\UI.c(348,21): warning C4024: 'ui_add': different types for formal and actual parameter 3
+C:\Users\andre\source\repos\Project2\UI.c(348,44): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\andre\source\repos\Project2\UI.c(348,35): warning C4024: 'ui_add': different types for formal and actual parameter 4
+C:\Users\andre\source\repos\Project2\UI.c(351,36): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\andre\source\repos\Project2\UI.c(351,24): warning C4024: 'ui_update': different types for formal and actual parameter 3
+C:\Users\andre\source\repos\Project2\UI.c(351,47): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\andre\source\repos\Project2\UI.c(351,38): warning C4024: 'ui_update': different types for formal and actual parameter 4
+C:\Users\andre\source\repos\Project2\UI.c(354,36): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\andre\source\repos\Project2\UI.c(354,24): warning C4024: 'ui_remove': different types for formal and actual parameter 3
+C:\Users\andre\source\repos\Project2\UI.c(354,47): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\andre\source\repos\Project2\UI.c(354,38): warning C4024: 'ui_remove': different types for formal and actual parameter 4
+C:\Users\andre\source\repos\Project2\UI.c(389,12): warning C4098: 'console': 'void' function returning a value
+  Generating Code...
+  Project2.vcxproj -> C:\Users\andre\source\repos\Project2\Debug\Project2.exe
